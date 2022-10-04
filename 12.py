@@ -8,3 +8,5 @@ print('harmadik szam:', harmadik)
 print(elso+masodik+harmadik)
 print(elso*masodik)
 
+#forked version
+
