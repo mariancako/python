@@ -10,4 +10,4 @@ print(elso*masodik)
 
 #forked version
 
-# new version
+# new version 222
