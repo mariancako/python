@@ -1,0 +1,5 @@
+Egeszszam=int(input('Adja meg az egesz szamot:'))
+Tizedesszam=float(input('Adja meg az tizedes szamot:'))
+Nev=str(input('Adjon meg egy nevet:'))
+kar=input('Adj meg egy karaktert.')
+print(Egeszszam,Tizedesszam,Nev,kar,sep="-Next Data-",end='.\nEnd of Section.')

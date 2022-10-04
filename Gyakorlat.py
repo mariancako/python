@@ -1,0 +1,6 @@
+Nev=input('Hogy hivnak?')
+Lakhely=input('Lakhelyed?')
+elerhetoseg=input('Elerhetosegeid:')
+print('Neved',Nev)
+print('Lakhelyed',Lakhely)
+print('Elerhetosegek:',elerhetoseg)
